@@ -12,5 +12,4 @@ export default function EventDashboard(){
             </Grid.Column>
         </Grid>
     )
-
 }
